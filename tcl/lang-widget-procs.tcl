@@ -7,7 +7,7 @@ ad_library {
 
     @author Don Baccus (dhogaza@pacifier.com)
     @creation-date November 3, 2006
-    @cvs-id $Id$
+    @cvs-id $Id: lang-widget-procs.tcl,v 1.2 2010/10/19 21:21:12 po34demo Exp $
 }
 
 namespace eval template {}

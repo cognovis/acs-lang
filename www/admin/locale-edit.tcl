@@ -7,7 +7,7 @@ ad_page_contract {
     Modified by Christian Hvid
 
     @creation-date 19 march 2002
-    @cvs-id $Id$
+    @cvs-id $Id: locale-edit.tcl,v 1.2 2010/10/19 20:11:56 po34demo Exp $
 } {
     locale
 }

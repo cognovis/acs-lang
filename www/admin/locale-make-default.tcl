@@ -6,7 +6,7 @@ ad_page_contract {
 
     @author Bruno Mattarollo <bruno.mattarollo@ams.greenpeace.org>
     @creation-date 19 march 2002
-    @cvs-id $Id$
+    @cvs-id $Id: locale-make-default.tcl,v 1.2 2010/10/19 20:11:56 po34demo Exp $
 } {
     locale
 } -properties {

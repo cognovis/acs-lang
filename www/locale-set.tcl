@@ -5,7 +5,7 @@ ad_page_contract {
 
     @author John Lowry (lowry@ardigita.com)
     @creation-date 29 September 2000
-    @cvs-id $Id$
+    @cvs-id $Id: locale-set.tcl,v 1.1 2005/04/18 19:25:53 cvs Exp $
 } {
     locale
     {redirect_url {[ns_set iget [ns_conn headers] referer]}}

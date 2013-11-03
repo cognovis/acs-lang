@@ -5,7 +5,7 @@ ad_page_contract {
     @author Lars Pind (lars@collaboraid.biz)
 
     @creation-date 2003-08-15
-    @cvs-id $Id$
+    @cvs-id $Id: message-delete.tcl,v 1.2 2010/10/19 20:11:56 po34demo Exp $
 
 } {
     locale

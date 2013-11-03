@@ -3,7 +3,7 @@
 --
 -- @author davis@xarg.net
 -- @creation-date 2000-09-10
--- @cvs-id $Id$
+-- @cvs-id $Id: message-catalog-drop.sql,v 1.2 2010/10/19 20:11:52 po34demo Exp $
 --
 
 -- drop the timezone stuff
